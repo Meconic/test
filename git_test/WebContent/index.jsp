@@ -10,7 +10,7 @@
 </head>
 <body>
 	<div class="container panel panel-info">
-		<h3 class="panel-heading">git_ver1</h3>
+		<h3 class="panel-heading">git_ver2</h3>
 	</div>
 </body>
 </html>
